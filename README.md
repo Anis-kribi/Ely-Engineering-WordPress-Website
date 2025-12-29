@@ -155,17 +155,4 @@ First WordPress Project
 This project represents my first professional experience with WordPress.
 It helped me understand the full workflow of building a real corporate website, from local development to structured content delivery.
 
-📌 How to add screenshots later
-![Accueil Page](screenshots/accueil.png)
-![Services Page](screenshots/services.png)
 
-
-If you want next:
-
-⭐ Recruiter-level README
-
-🧠 Challenges & solutions section
-
-🗂 Perfect WordPress .gitignore
-
-🔥 Portfolio description
